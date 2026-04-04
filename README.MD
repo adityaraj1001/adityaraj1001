@@ -25,7 +25,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,html,css,mysql,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Aditya Raj's GitHub Stats" />
 </p>
 
 ---
