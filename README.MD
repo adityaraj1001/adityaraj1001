@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI%2FML+Enthusiast;100%2B+DSA+Problems+Solved" />
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack (MERN) Developer | Data Science & AI/ML Enthusiast</h3>
 
