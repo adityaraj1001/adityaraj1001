@@ -1,16 +1,16 @@
-<!-- ================= HEADER (MODERN BANNER) ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Aditya%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Aditya%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Driven+Builder;💡+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Driven+Builder;💡+Problem+Solver" />
 </p>
 
 ---
 
-# 💻 Data Driven Builder
+# 💎 Data Driven Builder
 
 ---
 
@@ -19,10 +19,10 @@
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
-- 🚀 Full Stack MERN Developer  
+- 🚀 Full Stack Developer (MERN)  
 - 🤖 AI/ML & Data Science Enthusiast  
 - 💡 Solved 100+ DSA Problems  
-- ⚡ Love building real-world systems  
+- ⚡ Passionate about real-world projects  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Work
 
 🔹 UPI Fraud Detection System  
 🔹 Vote-Xpress Voting System  
@@ -42,15 +42,14 @@
 
 ---
 
-# 📊 GitHub Analytics (FIXED ✅)
+# 📊 GitHub Analytics (FIXED ✅ NO ICON BUG)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -66,7 +65,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -74,7 +73,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark&font=baloo"/>
 </p>
 
 ---
@@ -94,7 +93,7 @@
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-a73319282/">
@@ -108,5 +107,10 @@
 ---
 
 <p align="center">
-  ⭐ Code. Build. Learn. Repeat.
+  ⭐ <b>Code. Build. Learn. Repeat.</b>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
