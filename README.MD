@@ -25,7 +25,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Aditya Raj's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj1001&theme=tokyonight" alt="Aditya Raj's GitHub Stats" />
 </p>
 
 ---
