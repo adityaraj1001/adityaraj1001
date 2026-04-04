@@ -54,3 +54,20 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night" />
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=tokyonight&no-frame=true&row=1&column=6" />
+## 📌 Featured Projects
+
+### 🔹 [UPI Fraud Detection System](https://github.com/adityaraj1001/your-repo)
+Machine Learning model (~92% accuracy)
+
+### 🔹 [Vote-Xpress Voting System](https://github.com/adityaraj1001/your-repo)
+Python + MySQL based secure voting system
+
+### 🔹 [Railway Delay Analysis Dashboard](https://github.com/adityaraj1001/your-repo)
+Power BI analytics dashboard
