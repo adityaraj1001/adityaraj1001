@@ -1,73 +1,101 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI%2FML+Enthusiast;100%2B+DSA+Problems+Solved" />
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack (MERN) Developer | Data Science & AI/ML Enthusiast</h3>
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Aditya+Raj;Full+Stack+(MERN)+Developer;AI%2FML+%26+Data+Science+Enthusiast;Solved+100%2B+DSA+Problems" />
+</p>
 
-## 🚀 About Me
+<h1 align="center">🚀 Aditya Raj</h1>
+
+<h3 align="center">
+Aspiring Software Engineer • Full Stack (MERN) Developer • AI/ML Enthusiast
+</h3>
+
+---
+
+## 🧑‍💻 About Me
+
 - 🎓 B.Tech CSE @ Lovely Professional University  
-- 💡 Passionate about building scalable web applications & data-driven solutions  
-- 🔍 Interested in Full Stack Development, Data Science & AI/ML  
+- 💡 Passionate about scalable web apps & data-driven solutions  
+- 🔍 Focus: Full Stack, Data Science, AI/ML  
 - 🚀 Solved 100+ DSA Problems  
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
+<p align="center">
+
+💻 Languages  
+<br>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
-</p>
 
-### 🌐 Web Development
-<p>
+<br><br>
+
+🌐 Web Development  
+<br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
-</p>
 
-### 📊 Data & Tools
-<p>
+<br><br>
+
+📊 Data & Tools  
+<br>
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
+
+---
 
 ## 📌 Featured Projects
 
-### 🔹 UPI Fraud Detection System
-- Machine Learning model (~92% accuracy)
-- Real-time fraud prediction dashboard
+🔹 **UPI Fraud Detection System**  
+Machine Learning model (~92% accuracy) with real-time dashboard  
 
-### 🔹 Vote-Xpress Online Voting System
-- Built using Python + MySQL
-- Secure voting with live results
+🔹 **Vote-Xpress Online Voting System**  
+Python + MySQL based secure voting system with live results  
 
-### 🔹 Railway Delay Analysis Dashboard
-- Power BI dashboard for 480+ stations
-- Data visualization & insights
+🔹 **Railway Delay Analysis Dashboard**  
+Power BI dashboard analyzing 480+ stations  
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight" />
 </p>
 
-## 📫 Connect with Me
+---
 
-<p>
-<a href="https://www.linkedin.com/in/aditya-raj-a73319282/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night" />
 </p>
-## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night" />
+---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=tokyonight&no-frame=true&row=1&column=6" />
-## 📌 Featured Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-### 🔹 [UPI Fraud Detection System](https://github.com/adityaraj1001/your-repo)
-Machine Learning model (~92% accuracy)
+---
 
-### 🔹 [Vote-Xpress Voting System](https://github.com/adityaraj1001/your-repo)
-Python + MySQL based secure voting system
+## 🌐 Connect With Me
 
-### 🔹 [Railway Delay Analysis Dashboard](https://github.com/adityaraj1001/your-repo)
-Power BI analytics dashboard
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-raj-a73319282/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/adityaraj1001">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ "Code. Build. Learn. Repeat." ⭐
+</p>
