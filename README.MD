@@ -1,90 +1,91 @@
-<!-- ================= HEADER ================= -->
+<!-- ================== TOP BANNER ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Raj;Full+Stack+(MERN)+Developer;AI%2FML+%26+Data+Science+Enthusiast;Building+Scalable+Applications;100%2B+DSA+Problems+Solved" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Aditya%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">🚀 Aditya Raj</h1>
-
+<!-- ================== TYPING INTRO ================== -->
 <p align="center">
-  <b>💻 Full Stack Developer • 🤖 AI/ML Enthusiast • 📊 Data Driven Builder</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Raj;🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Enthusiast;📊+Data+Driven+Builder;💡+Always+Learning+New+Things" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================== ABOUT ================== -->
 ## 🧑‍💻 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
-- 🚀 Building scalable web apps & AI solutions  
-- 🧠 Focus: MERN • AI/ML • Data Science  
+- 🚀 Building scalable web apps & AI-powered systems  
+- 🧠 Focus: MERN Stack • AI/ML • Data Science  
 - 💡 Solved 100+ DSA Problems  
-- ⚡ Passionate about real-world impactful projects  
+- ⚡ Passionate about real-world impactful solutions  
+- 🌱 Currently learning: Advanced Backend & AI  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================== TECH STACK ================== -->
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,html,css,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-DSA-green?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================== PROJECTS ================== -->
 ## 🚀 Featured Projects
 
 🔹 **UPI Fraud Detection System**  
 ⚡ ML model (~92% accuracy) + real-time dashboard  
 
-🔹 **Vote-Xpress Online Voting System**  
-🗳️ Python + MySQL secure voting system  
+🔹 **Vote-Xpress Voting System**  
+🗳️ Secure voting using Python + MySQL  
 
-🔹 **Railway Delay Analysis Dashboard**  
-📊 Power BI analytics for 480+ stations  
+🔹 **Railway Delay Dashboard**  
+📊 Power BI dashboard (480+ stations insights)  
 
 ---
 
-<!-- ================= STATS ================= -->
+<!-- ================== STATS ================== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ================= GRAPH ================= -->
-## 📈 Contribution Graph
+<!-- ================== ACTIVITY GRAPH ================== -->
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" />
 </p>
 
 ---
 
-<!-- ================= SNAKE ================= -->
-## 🐍 Contribution Snake (LIVE)
+<!-- ================== SNAKE ================== -->
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg?palette=github-dark" />
-</p>
-
-<!-- OPTIONAL DARK VERSION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ================= LEETCODE ================= -->
+<!-- ================== LEETCODE ================== -->
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -93,7 +94,7 @@
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+<!-- ================== ACHIEVEMENTS ================== -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -110,7 +111,7 @@
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ================== SOCIAL ================== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -124,7 +125,11 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ================== FOOTER ================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
+
 <p align="center">
   ⭐ <b>Code. Build. Learn. Repeat.</b> ⭐
 </p>
