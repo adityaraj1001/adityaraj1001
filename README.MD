@@ -74,7 +74,7 @@
 ## 🐍 Contribution Snake (LIVE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg?palette=github-dark" />
 </p>
 
 <!-- OPTIONAL DARK VERSION -->
