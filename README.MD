@@ -1,9 +1,8 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Aditya%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ================= TYPING ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Driven+Builder;💡+Problem+Solver" />
 </p>
@@ -16,13 +15,13 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🚀 Full Stack Developer (MERN)  
 - 🤖 AI/ML & Data Science Enthusiast  
 - 💡 Solved 100+ DSA Problems  
-- ⚡ Passionate about real-world projects  
+- ⚡ Building real-world impactful projects  
 
 ---
 
@@ -42,27 +41,15 @@
 
 ---
 
-# 📊 GitHub Analytics (FIXED ✅ NO ICON BUG)
+# 📈 Contribution Graph (WORKING ✅)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (WORKING ✅)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg"/>
@@ -70,10 +57,10 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 LeetCode Stats (WORKING ✅)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark&font=baloo"/>
+  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark"/>
 </p>
 
 ---
@@ -110,7 +97,6 @@
   ⭐ <b>Code. Build. Learn. Repeat.</b>
 </p>
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
