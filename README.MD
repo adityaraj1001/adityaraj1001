@@ -77,9 +77,9 @@ Power BI dashboard analyzing 480+ stations
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight" />
-</p>
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=for-the-badge&logo=leetcode)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-MERN-blue?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-green?style=for-the-badge)
 
 ---
 
