@@ -1,31 +1,28 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Aditya%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Aditya%20Raj&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Driven+Builder;💡+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+(MERN)+Developer;AI%2FML+Engineer;Data+Driven+Builder;Problem+Solver"/>
 </p>
 
----
-
-# 💎 Data Driven Builder
+<h3 align="center">💻 Full Stack Developer • 🤖 AI/ML Enthusiast • 📊 Data Driven Builder</h3>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
-- 🚀 Full Stack Developer (MERN)  
+- 🚀 Full Stack (MERN) Developer  
 - 🤖 AI/ML & Data Science Enthusiast  
 - 💡 Solved 100+ DSA Problems  
 - ⚡ Building real-world impactful projects  
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,html,css,mysql,git,github" />
@@ -33,7 +30,7 @@
 
 ---
 
-# 🚀 Featured Work
+## 🚀 Featured Work
 
 🔹 UPI Fraud Detection System  
 🔹 Vote-Xpress Voting System  
@@ -41,31 +38,40 @@
 
 ---
 
-# 📈 Contribution Graph (WORKING ✅)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj1001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (WORKING ✅)
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🧠 LeetCode Stats (WORKING ✅)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark"/>
+  <img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
 
@@ -80,7 +86,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-a73319282/">
