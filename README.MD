@@ -78,7 +78,7 @@ Power BI dashboard analyzing 480+ stations
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
