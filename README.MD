@@ -1,47 +1,63 @@
-<!-- ================== ULTRA BANNER ================== -->
+<!-- ================== GOD LEVEL HEADER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Aditya%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=260&section=header&text=Aditya%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=00F7FF"/>
 </p>
 
 <!-- ================== TYPING ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Aditya+Raj;🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Science+Enthusiast;🔥+Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+(MERN)+Developer;🤖+AI%2FML+Engineer;📊+Data+Science+Enthusiast;🔥+Building+Real+World+Systems;⚡+100%2B+DSA+Problems+Solved" />
 </p>
 
-<!-- ================== BADGES ================== -->
+---
+
+<!-- ================== BADGE STRIP ================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack%20%7C%20AI-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Everyday-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Active-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-FullStack%20%7C%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Learning%20Daily-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GOAL-Software%20Engineer-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-<img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ I am a passionate developer who loves building impactful systems  
+✨ I build scalable, impactful systems that solve real problems  
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🚀 Full Stack MERN Developer  
 - 🤖 Exploring AI/ML & Data Science  
 - 💡 Solved 100+ DSA Problems  
-- ⚡ Love turning ideas → real products  
-- 🌱 Currently mastering backend + AI  
+- ⚡ Turning ideas → production-ready systems  
+- 🌱 Currently mastering backend + system design  
 
 ---
 
-# ⚙️ Tech Arsenal
+# ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,html,css,mysql,git,github,vscode" />
 </p>
 
+---
+
+# 🧠 Skill Power
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-DSA-green?style=for-the-badge"/>
+
+Backend ⚡  
+██████████████████░ 90%
+
+Frontend 🎨  
+████████████████░░░ 85%
+
+DSA 🧩  
+██████████████░░░░░ 75%
+
+AI/ML 🤖  
+████████████░░░░░░░ 70%
+
 </p>
 
 ---
@@ -52,10 +68,10 @@
 ⚡ ML model (~92% accuracy) + real-time dashboard  
 
 ### 🗳️ Vote-Xpress Voting System  
-🔐 Secure voting using Python + MySQL  
+🔐 Python + MySQL secure system  
 
 ### 📊 Railway Delay Dashboard  
-📈 Power BI analytics for 480+ stations  
+📈 Power BI insights for 480+ stations  
 
 ---
 
@@ -72,7 +88,7 @@
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=react-dark&hide_border=true&area=true"/>
@@ -127,9 +143,9 @@
 
 <!-- ================== FOOTER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=150&section=footer"/>
 </p>
 
 <p align="center">
-  💀 <b>Code. Create. Dominate. Repeat.</b> 💀
+  🔱 <b>Code. Create. Dominate. Repeat.</b> 🔱
 </p>
