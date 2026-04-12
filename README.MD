@@ -1,20 +1,19 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     HEADER BANNER                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--                 HEADER BANNER                  -->
+<!-- ══════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:FF006E&height=260&section=header&text=Aditya%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Data%20Alchemist&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION — demolab.com is the most stable typing SVG host -->
+<!-- TYPING SVG — demolab.com stable host, URL-encoded lines only, no raw emoji -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=860&height=55&lines=Full+Stack+%28MERN%29+Developer;AI+%2F+ML+Engineer+%26+Researcher;Data+Driven+Product+Builder;DSA+Problem+Solver+%7C+100%2B+Solved;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
 
 <br/>
 
-<!-- STATUS BADGES — shields.io is always reliable -->
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaraj1001&style=for-the-badge&color=00F7FF&labelColor=0D1117&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/adityaraj1001?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/adityaraj1001?style=for-the-badge&color=FF006E&labelColor=0D1117&label=TOTAL+STARS)
+![Followers](https://img.shields.io/github/followers/adityaraj1001?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/adityaraj1001?style=for-the-badge&color=FF006E&labelColor=0D1117&label=TOTAL+STARS)
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%26%20Projects-00C853?style=for-the-badge&labelColor=0D1117)
 
 <br/><br/>
@@ -23,9 +22,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--                   ABOUT ME                     -->
+<!-- ══════════════════════════════════════════════ -->
 
 <table align="center" width="100%">
 <tr>
@@ -64,7 +63,6 @@ Fun Facts:
 
 <br/>
 
-<!-- This giphy URL is the original short-form — most stable -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
 
 <br/><br/>
@@ -79,9 +77,9 @@ Fun Facts:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--                  TECH STACK                    -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -139,9 +137,9 @@ Fun Facts:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS                -->
+<!-- ══════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -159,9 +157,9 @@ Fun Facts:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SKILL METERS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--                SKILL METERS                    -->
+<!-- ══════════════════════════════════════════════ -->
 
 ## 📊 Skill Proficiency
 
@@ -176,31 +174,36 @@ System Design           █████████████░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                -->
-<!--  FIX: streak-stats moved from herokuapp to demolab            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATISTICS                               -->
+<!--                                                                        -->
+<!--  ROOT CAUSE OF BROKEN STATS + LANGS:                                  -->
+<!--  github-readme-stats free Vercel tier gets rate-limited by GitHub API -->
+<!--  Fix: cache_seconds=86400 forces server-side cache for 24h            -->
+<!--  Fix: layout=compact for langs (donut has known render failures)       -->
+<!--  Fix: show_icons=true requires no token for public repos only          -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FBE&text_color=ffffff&ring_color=FF006E&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FBE&text_color=ffffff&ring_color=FF006E&count_private=true&include_all_commits=true&cache_seconds=86400" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<!-- FIX: old herokuapp domain is dead — use streak-stats.demolab.com -->
-<img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888" height="175" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8" height="220" alt="Top Languages"/>
+<!-- layout=compact is the most stable and widely supported layout -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8&cache_seconds=86400" height="175" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--             CONTRIBUTION GRAPH                 -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -212,12 +215,12 @@ System Design           █████████████░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                            -->
-<!--                                                                -->
-<!--  NOTE: Snake SVG only works after you set up the GitHub        -->
-<!--  Action. See the bottom of this file for setup instructions.   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                                -->
+<!--                                                                        -->
+<!--  This WILL show a broken image until you run the GitHub Action once.  -->
+<!--  Setup: create .github/workflows/snake.yml — YAML is at bottom        -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -233,11 +236,9 @@ System Design           █████████████░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    LEETCODE STATS                              -->
-<!--  FIX: removed ext=heatmap (causes render failures on some     -->
-<!--  accounts), removed unsupported font param                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--               LEETCODE STATS                   -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -256,9 +257,9 @@ System Design           █████████████░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               GITHUB PROFILE SUMMARY CARDS                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--            GITHUB PROFILE SUMMARY              -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -268,38 +269,46 @@ System Design           █████████████░░░░░�
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj1001&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaraj1001&theme=tokyonight" width="32%" alt="Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj1001&theme=tokyonight" width="32%" alt="Stats Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj1001&theme=tokyonight" height="180" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaraj1001&theme=tokyonight" height="180" alt="Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj1001&theme=tokyonight" height="180" alt="Stats"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB TROPHIES                                -->
+<!--                                                                        -->
+<!--  ROOT CAUSE OF BROKEN TROPHIES:                                       -->
+<!--  theme=matrix has a known SVG render bug on low-activity accounts     -->
+<!--  row=2&column=4 fails silently if fewer than 8 trophies exist          -->
+<!--  Fix: theme=darkhub (stable dark neon theme matching the colour      -->
+<!--  scheme), row=1&column=7 (single row, renders whatever exists)        -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ACHIEVEMENTS BADGES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--                 ACHIEVEMENTS                   -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🎖️ Achievements
 
-![LeetCode 100+](https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&labelColor=0D1117)
-![MERN Stack](https://img.shields.io/badge/MERN-Developer-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&labelColor=0D1117)
+![MERN](https://img.shields.io/badge/MERN-Developer-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-00F7FF?style=for-the-badge&logo=tensorflow&labelColor=0D1117)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed%20Projects-ffffff?style=for-the-badge&logo=vercel&labelColor=0D1117)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7B2FBE?style=for-the-badge&logo=github&labelColor=0D1117)
@@ -309,10 +318,9 @@ System Design           █████████████░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CURRENT FOCUS — MERMAID MINDMAP                  -->
-<!--  NOTE: GitHub natively renders mermaid mindmap blocks          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--            CURRENT FOCUS MINDMAP               -->
+<!-- ══════════════════════════════════════════════ -->
 
 ## 🔭 Current Focus
 
@@ -339,10 +347,9 @@ mindmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               RANDOM DEV QUOTE                                 -->
-<!--  FIX: removed &border=true param that caused failures          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--              DEV QUOTE OF THE DAY              -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -354,9 +361,9 @@ mindmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT / SOCIALS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--               CONNECT WITH ME                  -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -375,7 +382,7 @@ mindmap
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Aditya_Raj12305995/">
-  <img src="https://img.shields.io/badge/LeetCode-Aditya__Raj12305995-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LeetCode-Aditya_Raj12305995-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
@@ -397,30 +404,38 @@ mindmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        SNAKE ACTION SETUP — CREATE THIS FILE IN YOUR REPO      -->
-<!--    Path: .github/workflows/snake.yml                           -->
-<!--                                                                -->
-<!--  name: Generate Snake                                          -->
-<!--  on:                                                           -->
-<!--    schedule:                                                    -->
-<!--      - cron: "0 0 * * *"                                       -->
-<!--    workflow_dispatch:                                           -->
-<!--  jobs:                                                         -->
-<!--    generate:                                                   -->
-<!--      runs-on: ubuntu-latest                                    -->
-<!--      steps:                                                    -->
-<!--        - uses: Platane/snk@v3                                  -->
-<!--          with:                                                  -->
-<!--            github_user_name: adityaraj1001                     -->
-<!--            outputs: |                                           -->
-<!--              dist/github-contribution-grid-snake.svg           -->
-<!--              dist/github-contribution-grid-snake-dark.svg      -->
-<!--              ?palette=github-dark                              -->
-<!--        - uses: crazy-max/ghaction-github-pages@v3              -->
-<!--          with:                                                  -->
-<!--            target_branch: output                               -->
-<!--            build_dir: dist                                      -->
-<!--          env:                                                   -->
-<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+═══════════════════════════════════════════════════════════
+  SNAKE ANIMATION SETUP — DO THIS ONCE IN YOUR REPO
+  
+  1. In your adityaraj1001 repo, create this file:
+     .github/workflows/snake.yml
+  
+  2. Paste this content into that file:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: adityaraj1001
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → Run workflow manually once.
+     After that it runs daily at midnight automatically.
+═══════════════════════════════════════════════════════════
+-->
