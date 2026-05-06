@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,60:24243e,100:0F0C29&height=280&section=header&text=Aditya%20Raj&fontSize=72&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Data%20Alchemist&descSize=19&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,25:7B2FBE,50:0D1117,75:302B63,100:00F7FF&height=300&section=header&text=Aditya%20Raj&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20%7C%20🤖%20AI%2FML%20Engineer%20%7C%20📊%20Data%20Alchemist&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%26+Researcher+%F0%9F%A4%96;Data-Driven+Product+Builder+%F0%9F%93%8A;100%2B+DSA+Problems+Conquered+%F0%9F%A7%A0;Building+Tomorrow%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=800&color=FF006E&center=true&vCenter=true&width=900&height=50&lines=🔥+Full+Stack+MERN+Developer;🤖+AI+%2F+ML+Engineer+%26+Researcher;📊+Data-Driven+Product+Builder;🧠+100%2B+DSA+Problems+Conquered;⚡+Building+Tomorrow%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adityaraj1001&style=for-the-badge&color=00F7FF&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/adityaraj1001)
-[![Followers](https://img.shields.io/github/followers/adityaraj1001?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=FOLLOWERS)](https://github.com/adityaraj1001?tab=followers)
-[![Stars](https://img.shields.io/github/stars/adityaraj1001?style=for-the-badge&color=FF006E&labelColor=0D1117&label=TOTAL+STARS)](https://github.com/adityaraj1001)
-[![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%26%20Freelance-00C853?style=for-the-badge&labelColor=0D1117)](mailto:Aditya1rajaditya@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityaraj1001&style=for-the-badge&color=FF006E&labelColor=0D1117&label=👁️+PROFILE+VIEWS)](https://github.com/adityaraj1001)
+[![Followers](https://img.shields.io/github/followers/adityaraj1001?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=👥+FOLLOWERS)](https://github.com/adityaraj1001?tab=followers)
+[![Stars](https://img.shields.io/github/stars/adityaraj1001?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=⭐+TOTAL+STARS)](https://github.com/adityaraj1001)
+[![Open To Work](https://img.shields.io/badge/🟢_OPEN%20TO%20WORK-Internships%20%26%20Freelance-00C853?style=for-the-badge&labelColor=0D1117)](mailto:Aditya1rajaditya@gmail.com)
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,33:7B2FBE,66:302B63,100:00F7FF&height=3&section=header" width="100%"/>
+
+</div>
 
 <table align="center" width="100%">
 <tr>
@@ -41,9 +47,9 @@ Currently:
   - Shipping projects that actually matter
 
 Fun Facts:
-  - Fueled by chai ☕ & deadlines
-  - 100+ DSA problems conquered
-  - Best commits happen after midnight
+  - Fueled by chai ☕ & deadlines ⏰
+  - 100+ DSA problems conquered 🏆
+  - Best commits happen after midnight 🌙
   - Bugs are just unsolved puzzles 🧩
 ```
 
@@ -56,9 +62,9 @@ Fun Facts:
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-00F7FF?style=for-the-badge&labelColor=0D1117)](https://adityaraj1001.github.io)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download%20PDF-FF006E?style=for-the-badge&labelColor=0D1117)](https://adityaraj1001.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-Lets%20Connect-7B2FBE?style=for-the-badge&labelColor=0D1117)](mailto:Aditya1rajaditya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-FF006E?style=for-the-badge&labelColor=0D1117)](https://adityaraj1001.github.io)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download%20PDF-7B2FBE?style=for-the-badge&labelColor=0D1117)](https://adityaraj1001.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-Lets%20Connect-00F7FF?style=for-the-badge&labelColor=0D1117)](mailto:Aditya1rajaditya@gmail.com)
 
 </td>
 </tr>
@@ -68,12 +74,12 @@ Fun Facts:
 
 <div align="center">
 
-## ⚡ What I'm Up To
+## ⚡ Quick Snapshot
 
 | 🔭 Exploring | 🌱 Learning | 👯 Looking to | 💬 Ask me about |
 |:---:|:---:|:---:|:---:|
-| Agentic AI Systems | LLMs & MLOps | Collaborate on AI/ML | React, Node.js, Python |
-| RAG Pipelines | System Design | Open Source Projects | ML, DSA, Data Analytics |
+| Agentic AI Systems | LLMs & MLOps | Collaborate on AI/ML | React & Node.js |
+| RAG Pipelines | System Design | Open Source Projects | ML & Data Analytics |
 | Next.js 14+ | Cloud & DevOps | Internship Roles | Full Stack Architecture |
 
 </div>
@@ -83,6 +89,8 @@ Fun Facts:
 <div align="center">
 
 ## ⚙️ Tech Arsenal
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,100:7B2FBE&height=2" width="60%"/>
 
 ### 🧠 Languages
 
@@ -162,7 +170,7 @@ Fun Facts:
 
 **Stack:** `Python` `LangChain` `React` `Vercel` `OpenAI`
 
-[![Live](https://img.shields.io/badge/🚀_Live-Demo-00F7FF?style=for-the-badge&labelColor=0D1117)](https://agrichat.vercel.app)
+[![Live](https://img.shields.io/badge/🚀_Live-Demo-FF006E?style=for-the-badge&labelColor=0D1117)](https://agrichat.vercel.app)
 [![Repo](https://img.shields.io/badge/📂_Source-Code-7B2FBE?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
 
 </td>
@@ -173,7 +181,7 @@ Fun Facts:
 
 **Stack:** `Python` `XGBoost` `Scikit-learn` `FastAPI`
 
-[![Repo](https://img.shields.io/badge/📂_Source-Code-FF006E?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
+[![Repo](https://img.shields.io/badge/📂_Source-Code-00F7FF?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
 
 </td>
 </tr>
@@ -208,17 +216,17 @@ Fun Facts:
 
 **Stack:** `Excel` `VBA` `Power Query` `DAX`
 
-[![View](https://img.shields.io/badge/📊_View-Dashboard-00F7FF?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
+[![View](https://img.shields.io/badge/📊_View-Dashboard-FF006E?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 More Coming Soon...
-> Currently building something exciting in the Agentic AI space. Stay tuned!
+### 🤖 Agentic AI — Coming Soon
+> Building something exciting with LangGraph & multi-agent orchestration. Stay tuned!
 
 **Stack:** `LLMs` `LangGraph` `FastAPI` `Next.js`
 
-[![Follow](https://img.shields.io/badge/⭐_Follow-For_Updates-FF006E?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
+[![Follow](https://img.shields.io/badge/⭐_Follow-For_Updates-7B2FBE?style=for-the-badge&labelColor=0D1117)](https://github.com/adityaraj1001)
 
 </td>
 </tr>
@@ -245,13 +253,13 @@ System Design           █████████████░░░░░�
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FBE&text_color=ffffff&ring_color=FF006E&count_private=true&include_all_commits=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=7B2FBE&text_color=ffffff&ring_color=00F7FF&count_private=true&include_all_commits=true&cache_seconds=86400&rank_icon=github" height="195" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=7B2FBE&fire=FF006E&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888&sideNums=FF006E" height="195" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10&cache_seconds=86400" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=ffffff&langs_count=8&cache_seconds=86400" height="250" alt="Top Languages"/>
 
 </div>
 
@@ -261,7 +269,7 @@ System Design           █████████████░░░░░�
 
 ## 🗓️ Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=7B2FBE&point=FF006E&area_color=7B2FBE" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj1001&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=FF006E&line=7B2FBE&point=00F7FF&area_color=7B2FBE" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -277,6 +285,8 @@ System Design           █████████████░░░░░�
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+> ⚠️ Snake animation requires GitHub Action to run once — see setup below
+
 </div>
 
 ---
@@ -285,14 +295,14 @@ System Design           █████████████░░░░░�
 
 ## 🧠 LeetCode Performance
 
-<img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark&border=0&radius=20&ext=heatmap" width="500" alt="LeetCode Stats"/>
+[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Aditya_Raj12305995?theme=dark&bgColor=0D1117)](https://leetcode.com/u/Aditya_Raj12305995/)
 
-<br/><br/>
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Aditya_Raj12305995/)
-![Easy](https://img.shields.io/badge/Easy-Solved-00B8A3?style=for-the-badge&labelColor=0D1117)
-![Medium](https://img.shields.io/badge/Medium-Grinding-FFC01E?style=for-the-badge&labelColor=0D1117)
-![Hard](https://img.shields.io/badge/Hard-Attempted-EF4743?style=for-the-badge&labelColor=0D1117)
+![Easy](https://img.shields.io/badge/Easy-✅%20Solved-00B8A3?style=for-the-badge&labelColor=0D1117)
+![Medium](https://img.shields.io/badge/Medium-🔥%20Grinding-FFC01E?style=for-the-badge&labelColor=0D1117)
+![Hard](https://img.shields.io/badge/Hard-💪%20Attempted-EF4743?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -302,17 +312,17 @@ System Design           █████████████░░░░░�
 
 ## 🃏 Profile Summary Cards
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaraj1001&theme=tokyonight" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaraj1001&theme=radical" width="100%" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj1001&theme=tokyonight" height="180" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj1001&theme=radical" height="180" alt="Repos Per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaraj1001&theme=tokyonight" height="180" alt="Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaraj1001&theme=radical" height="180" alt="Commit Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj1001&theme=tokyonight" height="180" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj1001&theme=radical" height="180" alt="Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityaraj1001&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityaraj1001&theme=radical&utcOffset=5.5" height="180" alt="Productive Time"/>
 
 </div>
 
@@ -322,7 +332,7 @@ System Design           █████████████░░░░░�
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -363,7 +373,7 @@ mindmap
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&labelColor=0D1117)
 ![MERN](https://img.shields.io/badge/MERN-Full%20Stack%20Developer-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-00F7FF?style=for-the-badge&logo=tensorflow&labelColor=0D1117)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-FF006E?style=for-the-badge&logo=tensorflow&labelColor=0D1117)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed%20Projects-ffffff?style=for-the-badge&logo=vercel&labelColor=0D1117)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7B2FBE?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&labelColor=0D1117)
@@ -377,7 +387,7 @@ mindmap
 
 ## 💭 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Dev Quote"/>
 
 </div>
 
@@ -410,7 +420,7 @@ mindmap
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FBE,100:00F7FF&height=160&section=footer&text=Code.%20Build.%20Learn.%20Repeat.&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,33:7B2FBE,66:FF006E,100:0D1117&height=160&section=footer&text=Code.%20Build.%20Learn.%20Repeat.&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -418,7 +428,43 @@ mindmap
 
 <br/>
 
-![Made with](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00F7FF?style=for-the-badge&labelColor=0D1117)
+![Made with](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-FF006E?style=for-the-badge&labelColor=0D1117)
 ![From India](https://img.shields.io/badge/From-India%20🇮🇳-FF9933?style=for-the-badge&labelColor=0D1117)
+![visitors](https://img.shields.io/badge/Keep%20Coding-Every%20Day-7B2FBE?style=for-the-badge&labelColor=0D1117)
 
 </div>
+
+---
+
+<details>
+<summary>🐍 Snake Animation GitHub Actions Setup (Click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in your repo with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: adityaraj1001
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions tab → Generate Snake → Run workflow** once.
+
+</details>
