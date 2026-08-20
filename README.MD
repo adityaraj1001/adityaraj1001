@@ -19,9 +19,8 @@
 <tr>
 <td width="55%" valign="top">
 
-### `~/aditya` `git log --author=me`
+~/aditya git log --author=me
 
-```yaml
 name: Aditya Raj
 based_in: Patna, Bihar, India
 studying_at: Lovely Professional University, Punjab
@@ -44,7 +43,6 @@ stats:
   leetcode_streak: 13 days
   linkedin_network: 500+
   github_repos: 27
-```
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -63,13 +61,39 @@ stats:
 
 <div align="center">
 
-### Radar
+Radar
 
-| Exploring | Learning | Open To | Ask Me About |
-|:---:|:---:|:---:|:---:|
-| Agentic AI Systems | LLMs & MLOps | AI/ML Collaboration | React & Node.js |
-| RAG Pipelines | System Design | Internship Roles | ML & Data Analytics |
-| Next.js 14+ | Cloud & DevOps | Open Source | Full Stack Architecture |
+Exploring
+
+Learning
+
+Open To
+
+Ask Me About
+
+Agentic AI Systems
+
+LLMs & MLOps
+
+AI/ML Collaboration
+
+React & Node.js
+
+RAG Pipelines
+
+System Design
+
+Internship Roles
+
+ML & Data Analytics
+
+Next.js 14+
+
+Cloud & DevOps
+
+Open Source
+
+Full Stack Architecture
 
 </div>
 
@@ -77,81 +101,79 @@ stats:
 
 <div align="center">
 
-## Skill Proficiency
+Skill Proficiency
 
 </div>
 
-```text
 Full Stack Development  ████████████████████░░░░  88%
 Machine Learning / AI   ███████████████████░░░░░  82%
 Data Analytics          ████████████████████░░░░░  80%
 DSA / Problem Solving   ██████████████████░░░░░░░  78%
 Cloud & DevOps          █████████████░░░░░░░░░░░░  65%
 System Design           ███████████░░░░░░░░░░░░░░  58%
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
 <div align="center">
 
-## Tech Arsenal
+Tech Arsenal
 
-**Languages**
+Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**AI / ML / Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Frontend
 
-**Database & Cloud**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+
+
+Backend
+
+
+
+
+
+
+
+AI / ML / Data
+
+
+
+
+
+
+
+
+Database & Cloud
+
+
+
+
+
+
+
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
-## Featured Builds
+Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AgriChat**
+AgriChat
 AI farming assistant with a RAG pipeline, live crop advisory and multilingual support.
 
-`Python` `LangChain` `React` `OpenAI`
+Python LangChain React OpenAI
 
 <a href="https://agrichat.vercel.app"><img src="https://img.shields.io/badge/LIVE-Demo-E100FF?style=for-the-badge&labelColor=0F0C29"/></a>
 <a href="https://github.com/adityaraj1001"><img src="https://img.shields.io/badge/SOURCE-Code-6A00F4?style=for-the-badge&labelColor=0F0C29"/></a>
@@ -159,10 +181,10 @@ AI farming assistant with a RAG pipeline, live crop advisory and multilingual su
 </td>
 <td width="50%" valign="top">
 
-**UPI Risk Intelligence**
+UPI Risk Intelligence
 Fraud detection engine, 95%+ accuracy via ensemble models with real-time anomaly scoring.
 
-`Python` `XGBoost` `Scikit-learn` `FastAPI`
+Python XGBoost Scikit-learn FastAPI
 
 <a href="https://github.com/adityaraj1001"><img src="https://img.shields.io/badge/SOURCE-Code-00E5FF?style=for-the-badge&labelColor=0F0C29"/></a>
 
@@ -171,20 +193,20 @@ Fraud detection engine, 95%+ accuracy via ensemble models with real-time anomaly
 <tr>
 <td width="50%" valign="top">
 
-**VoteXpress**
+VoteXpress
 Secure online voting platform with OTP auth, admin panel and live result visualization.
 
-`MERN` `JWT` `Socket.io` `Tailwind`
+MERN JWT Socket.io Tailwind
 
 <a href="https://github.com/adityaraj1001"><img src="https://img.shields.io/badge/SOURCE-Code-00E676?style=for-the-badge&labelColor=0F0C29"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-**Railway Delay Dashboard**
+Railway Delay Dashboard
 Power BI dashboard analyzing 50K+ train records with delay prediction and trend analysis.
 
-`Power BI` `Python` `DAX` `SQL`
+Power BI Python DAX SQL
 
 <a href="https://github.com/adityaraj1001"><img src="https://img.shields.io/badge/VIEW-Dashboard-F2C811?style=for-the-badge&labelColor=0F0C29"/></a>
 
@@ -196,19 +218,27 @@ Power BI dashboard analyzing 50K+ train records with delay prediction and trend 
 
 <div align="center">
 
-## GitHub Analytics
+GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=dracula&hide_border=true&bg_color=0F0C29&title_color=E100FF&icon_color=6A00F4&text_color=ffffff&ring_color=00E5FF&include_all_commits=true&rank_icon=github" height="195"/>
-<img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=dracula&hide_border=true&background=0F0C29&stroke=E100FF&ring=6A00F4&fire=E100FF&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888" height="195"/>
+<a href="https://github.com/adityaraj1001">
+<img src="./profile/stats.svg" alt="GitHub Stats" height="195"/>
+</a>
+<a href="https://github.com/adityaraj1001?tab=repositories">
+<img src="./profile/top-langs.svg" alt="Top Languages" height="195"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0F0C29&title_color=E100FF&text_color=ffffff&langs_count=8" height="250"/>
+<br/>
 
-## Live Contribution Snake
+<a href="https://github.com/adityaraj1001">
+<img src="./profile/streak.svg" alt="GitHub Streak" height="195"/>
+</a>
+
+Live Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -217,27 +247,30 @@ Power BI dashboard analyzing 50K+ train records with delay prediction and trend 
 
 <div align="center">
 
-## LeetCode Performance
+LeetCode Performance
 
-<a href="https://leetcode.com/u/Aditya_Raj12305995/"><img src="https://leetcode-badge-sage.vercel.app/badge/Aditya_Raj12305995?theme=dark&bgColor=0F0C29"/></a>
+<a href="https://leetcode.com/u/Aditya_Raj12305995/">
+<img src="https://leetcard.jacoblin.cool/Aditya_Raj12305995?theme=dark&animation=false&border=0&radius=12" alt="LeetCode Stats"/>
+</a>
 
-<img src="https://img.shields.io/badge/LEETCODE-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/STREAK-13_Days-00E676?style=for-the-badge&logo=fire&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/EASY-Solved-00B8A3?style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/MEDIUM-Grinding-FFC01E?style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/HARD-Attempted-EF4743?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/100%2B-Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/DSA-Daily_Practice-00E676?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/EASY-SOLVED-00B8A3?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/MEDIUM-GRINDING-FFC01E?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/HARD-ATTEMPTED-EF4743?style=for-the-badge&labelColor=0F0C29"/>
 
-## Trophy Case
+Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj1001&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+<a href="https://github.com/adityaraj1001">
+<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
-## Focus Map
+Focus Map
 
-```mermaid
 mindmap
   root((Aditya Raj))
     Full Stack
@@ -260,13 +293,12 @@ mindmap
       System Design
       Competitive Coding
       Interview Prep
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
 <div align="center">
 
-## Dev Quote
+Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="80%"/>
 
@@ -276,7 +308,7 @@ mindmap
 
 <div align="center">
 
-## Connect
+Connect
 
 <a href="https://www.linkedin.com/in/aditya-raj-a73319282/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29"/></a>
 <a href="https://github.com/adityaraj1001"><img src="https://img.shields.io/badge/GitHub-adityaraj1001-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29"/></a>
@@ -285,48 +317,26 @@ mindmap
 
 <br/><br/>
 
-`React` • `Node.js` • `Python` • `Machine Learning` • `Data Analytics` • `DSA` • `System Design`
+React • Node.js • Python • Machine Learning • Data Analytics • DSA • System Design
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:6A00F4,50:E100FF,75:6A00F4,100:0F0C29&height=160&section=footer&text=Code.%20Build.%20Ship.%20Repeat.&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
-**If something here caught your eye, a star on the repo goes a long way.**
+If something here caught your eye, a star on the repo goes a long way.
 
-![Made with](https://img.shields.io/badge/Made%20with-Chai%20%26%20Code-E100FF?style=for-the-badge&labelColor=0F0C29)
-![From](https://img.shields.io/badge/From-Patna%2C%20India-FF9933?style=for-the-badge&labelColor=0F0C29)
+
+
 
 </div>
 
 <details>
-<summary>Snake animation one-time setup</summary>
+<summary>Profile assets automation</summary>
 
-Create `.github/workflows/snake.yml`
+This profile uses GitHub Actions to generate the GitHub Stats, Top Languages, Streak, Trophy, and Snake assets into the repository so the README does not depend on live third-party GitHub-stat endpoints.
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: adityaraj1001
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+The workflow runs daily and can also be started manually from Actions → Update profile assets → Run workflow.
 
-Run it once from Actions → Generate Snake → Run workflow.
+Required workflow permission: Settings → Actions → General → Workflow permissions → Read and write permissions. GitHub Actions can use the built-in GITHUB_TOKEN for repository API access and writes when the workflow grants contents: write.
 
 </details>
