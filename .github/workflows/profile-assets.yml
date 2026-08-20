@@ -1,0 +1,86 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile-cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Create profile asset directory
+        run: mkdir -p profile
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2.0.2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F0C29&title_color=E100FF&icon_color=6A00F4&text_color=FFFFFF&ring_color=00E5FF&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2.0.2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0F0C29&title_color=E100FF&text_color=FFFFFF
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate GitHub streak
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=dracula&hide_border=true&background=0F0C29&stroke=E100FF&ring=6A00F4&fire=E100FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&disable_animations=true&timezone=Asia/Kolkata
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=${{ github.repository_owner }}&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "chore(profile): refresh GitHub cards"
+          git push
+
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(profile): refresh contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
