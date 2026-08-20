@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243E,75:6A00F4,100:E100FF&height=280&section=header&text=AD1TYA%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20⚡%20AI%2FML%20Builder%20⚡%20Data%20Alchemist&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243E,75:6A00F4,100:E100FF&height=280&section=header&text=ADITYA%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20⚡%20AI%2FML%20Builder%20⚡%20Data%20Alchemist&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=E100FF&center=true&vCenter=true&width=950&height=55&lines=%3E+Aspiring+Software+Engineer;%3E+Full+Stack+MERN+%2B+Next.js+Developer;%3E+AI+%2F+ML+Engineer+%26+Researcher;%3E+100%2B+DSA+Problems+%7C+13+Day+Streak;%3E+Currently+Building+Agentic+AI+Systems" alt="Typing SVG"/>
 
@@ -21,7 +21,7 @@
 
 ### `~/aditya` `git log --author=me`
 
-​```yaml
+```yaml
 name: Aditya Raj
 based_in: Patna, Bihar, India
 studying_at: Lovely Professional University, Punjab
@@ -44,7 +44,7 @@ stats:
   leetcode_streak: 13 days
   linkedin_network: 500+
   github_repos: 27
-​```
+```
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -79,9 +79,16 @@ stats:
 
 ## Skill Proficiency
 
-<img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/main/assets/skills.svg" width="100%"/>
-
 </div>
+
+```text
+Full Stack Development  ████████████████████░░░░  88%
+Machine Learning / AI   ███████████████████░░░░░  82%
+Data Analytics          ████████████████████░░░░░  80%
+DSA / Problem Solving   ██████████████████░░░░░░░  78%
+Cloud & DevOps          █████████████░░░░░░░░░░░░  65%
+System Design           ███████████░░░░░░░░░░░░░░  58%
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
@@ -189,13 +196,9 @@ Power BI dashboard analyzing 50K+ train records with delay prediction and trend 
 
 <div align="center">
 
-## Live Metrics
-
-<img src="https://raw.githubusercontent.com/adityaraj1001/adityaraj1001/main/metrics.svg" width="100%"/>
-
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=dracula&hide_border=true&bg_color=0F0C29&title_color=E100FF&icon_color=6A00F4&text_color=ffffff&ring_color=00E5FF&count_private=true&include_all_commits=true&rank_icon=github" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj1001&show_icons=true&theme=dracula&hide_border=true&bg_color=0F0C29&title_color=E100FF&icon_color=6A00F4&text_color=ffffff&ring_color=00E5FF&include_all_commits=true&rank_icon=github" height="195"/>
 <img src="https://streak-stats.demolab.com?user=adityaraj1001&theme=dracula&hide_border=true&background=0F0C29&stroke=E100FF&ring=6A00F4&fire=E100FF&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888" height="195"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj1001&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0F0C29&title_color=E100FF&text_color=ffffff&langs_count=8" height="250"/>
@@ -234,7 +237,7 @@ Power BI dashboard analyzing 50K+ train records with delay prediction and trend 
 
 ## Focus Map
 
-​```mermaid
+```mermaid
 mindmap
   root((Aditya Raj))
     Full Stack
@@ -257,7 +260,7 @@ mindmap
       System Design
       Competitive Coding
       Interview Prep
-​```
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:6A00F4,100:0F0C29&height=2" width="100%"/>
 
@@ -296,11 +299,11 @@ mindmap
 </div>
 
 <details>
-<summary>One-time setup this needs</summary>
+<summary>Snake animation one-time setup</summary>
 
-Snake animation workflow at `.github/workflows/snake.yml`
+Create `.github/workflows/snake.yml`
 
-​```yaml
+```yaml
 name: Generate Snake
 on:
   schedule:
@@ -322,10 +325,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-​```
+```
 
-Metrics workflow at `.github/workflows/metrics.yml` is already included in this delivery. It needs a repo secret named `METRICS_TOKEN` holding a personal access token with `repo` and `read:user` scopes, since the default `GITHUB_TOKEN` cannot read achievements and habits data.
-
-Run both workflows once from the Actions tab after pushing, so `metrics.svg` and the snake SVGs exist before the README tries to load them.
+Run it once from Actions → Generate Snake → Run workflow.
 
 </details>
